@@ -15,7 +15,7 @@ h1 {
 }
 
 body {
-    background-image: url(northern\ light\ 2.jfif)
+    background-image: url("./Northern_Lights.jpg");
 }
 
 
@@ -36,8 +36,9 @@ margin-right: 500px;
 
 .img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+  float: left;
+  display: inline-flex;
+  margin-top: 20px;
 
 
 }
@@ -51,5 +52,6 @@ margin-right: 500px;
   h2 {
     text-align: center;
     padding: 50px 0;
-    margin-right: 40px;
+    margin-right: 60px;
+  
   }

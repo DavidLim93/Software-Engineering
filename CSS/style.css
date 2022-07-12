@@ -1,0 +1,55 @@
+h1 {
+    font-size: 80px;
+    font-weight: bold;
+    color: lightseagreen;
+    
+}
+
+
+.para {
+    border: 0px;
+    width: 300px;
+    height: 160px;
+    margin: 20px;
+
+}
+
+body {
+    background-image: url(northern\ light\ 2.jfif)
+}
+
+
+.wrapper {
+    background-color: white;
+    width: 800px;
+    display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh;
+top: 0px;
+bottom: 0px;
+text-align: center;
+margin-left: 500px;
+margin-right: 500px;
+}
+
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  h2 {
+    text-align: center;
+    padding: 50px 0;
+    margin-right: 40px;
+  }

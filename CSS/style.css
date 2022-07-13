@@ -16,8 +16,10 @@ h1 {
 
 }
 
-body {
-    background-image: url("./Northern_Lights.jpg");
+html { 
+  background: url("./Northern_Lights.jpg"); 
+background-size: cover;
+background-repeat: no-repeat;
 }
 
 
